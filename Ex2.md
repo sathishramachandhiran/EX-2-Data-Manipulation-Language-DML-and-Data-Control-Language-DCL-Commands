@@ -182,5 +182,11 @@ ORDER BY COUNT(*) DESC;
 ### OUTPUT:
 ![out](ex2l.png)
 
+```
+SUBMITTED BY :
+NAME : SATHISH R
+REGNO: 212222100048
+```
+
 ## RESULT:
 Thus, Manager database is created and DML queries such as insertion, updation, deletion are executed using SQL.
