@@ -37,7 +37,7 @@ SET salary = salary + (salary * 0.10),
 annualsalary = annualsalary + (annualsalary * 0.10);
 ```
 ### OUTPUT:
-![OUT](exp2.png)
+![OUT](ex2.png)
 
 ### Q2) Delete the records from manager table where the salary less than 2750.
 
